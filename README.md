@@ -1,4 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DyUDlW4OOwyeOZ8YMOKfDA46aUqXDN6snw&s)](https://rishavchanda.io)
+<a href="https://rishavchanda.io">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DyUDlW4OOwyeOZ8YMOKfDA46aUqXDN6snw&s" width="100%" alt="MasterHead">
+</a>
+
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
