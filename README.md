@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sonukumar" target="blank"><img src="https://img.shields.io/twitter/follow/sonukumar?logo=twitter&style=for-the-badge" alt="sonukumar" /></a> </p>
 
-- 🌱 I’m currently learning **React Natives**
+- 🌱 I’m currently learning **Type Script And Nextjs**
 
 - 💬 Ask me about **Android , MERN stack**
 
