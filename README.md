@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p style="display: flex; flex-direction: column; gap: 10px;">
+<p style="display: flex; flex-direction: row; gap: 10px;">
   <a href="https://twitter.com/sonukumar" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
